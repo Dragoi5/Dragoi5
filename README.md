@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- I'm a **Bachelor of Information Systems** graduate from [UNSW](https://www.unsw.edu.au/study/undergraduate/bachelor-of-information-systems)
+
+- I can code in Javascript, [Java](https://www.java.com/en/), [Python](https://www.python.org/)
+
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/ishaan-sharma-999506283/)
+
+
 <!--
 **Dragoi5/Dragoi5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
